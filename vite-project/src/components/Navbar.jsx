@@ -1,5 +1,24 @@
 import React from "react";
 
 export default function Navbar() {
-  return <h1>Navbar goes here</h1>;
+  return (
+
+    <header>
+
+    <nav>
+
+      <img src="/react.svg" alt="React Logo" />
+
+      <span>ReactFacts</span>
+
+    </nav>
+
+
+
+
+    </header>
+
+
+
+  )
 }
